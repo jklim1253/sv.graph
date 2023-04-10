@@ -5,5 +5,8 @@
   },
   "C_Cpp.default.includePath": [
     "${workspaceFolder}/include"
-  ]
+  ],
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
