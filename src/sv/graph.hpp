@@ -1,5 +1,4 @@
-#ifndef __SV_GRAPH_HPP__
-#define __SV_GRAPH_HPP__
+#pragma once
 
 #include <iostream>
 
@@ -79,4 +78,3 @@ std::ostream& operator << (std::ostream& os, edge<T,D> const& o)
 
 } // namespace sv
 
-#endif // __SV_GRAPH_HPP__
